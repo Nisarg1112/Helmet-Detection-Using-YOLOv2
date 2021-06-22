@@ -2,12 +2,13 @@
 
 In this project, I used YOLO-tiny algorithm trained on COCO dataset for object detection task. I used pretrained Yolov2 model which can downloaded from the official YOLO <a href='https://pjreddie.com/darknet/yolo/'>website</a>.
 
-## Demo Video and Images
+## Demo Output Video
 
-**Video:**
-<iframe width="560" height="315" src="https://www.youtube.com/embed/9nWZnHMc2Lg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9nWZnHMc2Lg
+" target="_blank"><img src="Screenshot 2021-06-23 025047.png" alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
 
-**Image:**
+## Demo Output Image
+
 <img src="Screenshot 2021-06-23 021345.png">
 
 ## General Introduction of YOLOv2-tiny Model
