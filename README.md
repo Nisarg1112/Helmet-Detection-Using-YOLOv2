@@ -5,11 +5,11 @@ In this project, I used YOLO-tiny algorithm trained on COCO dataset for object d
 ## Demo Output Video
 
 <a href="http://www.youtube.com/watch?feature=player_embedded&v=9nWZnHMc2Lg
-" target="_blank"><img src="Screenshot 2021-06-23 025047.png" alt="IMAGE ALT TEXT HERE" width="240" height="180"/></a>
+" target="_blank"><img src="Screenshot 2021-06-23 025047.png" alt="IMAGE ALT TEXT HERE"  height=400px></a>
 
 ## Demo Output Image
 
-<img src="Screenshot 2021-06-23 021345.png">
+<img src="Screenshot 2021-06-23 021345.png" height=400px>
 
 ## General Introduction of YOLOv2-tiny Model
 
