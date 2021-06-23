@@ -4,8 +4,7 @@
 
 ## 🎥 Demo Output Video
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=9nWZnHMc2Lg
-" target="_blank"><img src="assets/Screenshot 2021-06-23 025047.png" alt="Helmet Detection" title="Click here to Watch output on Youtube"  height=400px></a>
+<a href="http://www.youtube.com/watch?feature=player_embedded&v=9nWZnHMc2Lg" target="_blank"><img src="assets/Screenshot 2021-06-23 025047.png" alt="Helmet Detection" title="Click here to Watch output on Youtube"  height=400px></a>
 
 ## 📸 Demo Output Image
 
@@ -50,7 +49,7 @@ Just follow 6 simple steps :
 **If you face any problem like script not running in local environment or anything:** You can reach out to me at anytime on following platforms!
 <br>
 <br>
-<a href="mailto:nisargtrivedi054@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send a Mail to Nisarg Trivedi"></a> <a href="https://www.linkedin.com/in/nisargtrivedi1112" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Reach out to Nisarg Trivedi"></a>
+<a href="mailto:nisargtrivedi054@gmail.com" target="_blank"> <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" title="Send a Mail to Nisarg Trivedi"></a> <a href="https://www.linkedin.com/in/nisargtrivedi1112" target="_blank"> <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" title="Reach out to Nisarg Trivedi"></a>
 
 
 ## ℹ References
